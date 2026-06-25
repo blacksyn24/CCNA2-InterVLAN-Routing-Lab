@@ -352,7 +352,7 @@ Gig0/0.50     192.168.50.1  up   up
 ## 👨‍💻 Auteur
 
 **Urbain Sedami**
-🎓 Étudiant CCNA 2 — Cisco Networking Academy
+🎓 Étudiant En Réseau Informatique | CCNA  — Cisco Networking Academy
 📍 Cotonou, Bénin 🇧🇯
 
 ---
